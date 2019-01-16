@@ -1,6 +1,6 @@
 {
-  "name": "countUp.js",
-  "repo": "inorganik/countUp.js",
+  "name": "countUp",
+  "repo": "dwlabcube/countUp",
   "scripts": ["./dist/countUp.min.js"],
   "demo": "http://inorganik.github.io/countUp.js",
   "author": "Jamie Perkins",
